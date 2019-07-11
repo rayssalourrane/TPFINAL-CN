@@ -1,0 +1,1 @@
+parseInt(String str) => int.parse(str);
